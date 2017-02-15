@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Material">
+        <!-- Customize your theme here. -->
+        <item name="windowActionBar">true</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionBarStyle">@style/AppTheme.ActionBarStyle</item>
+    </style>
+
+    <style name="AppTheme.ActionBarStyle" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:titleTextStyle">@style/MainTheme.ActionBar.TitleTextStyle</item>
+        <item name="android:background">#FF212121</item>
+    </style>
+
+    <style name="MainTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_2079dfa0661fd41e3ac58b70f75f679c932c4119\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_42c0e605f386a98751986a7f1a7e268ba9bb2ae6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_c1918379c751574a5a4d0999d618d5cb0940d174\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48deb190f64b90da6b929086ebd1e5cd9509f6a0">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_67a5aa1e82b8e7b0b51e3854bc3d1300cea8170b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_3214caca494fbb5c58b82db97035e0dd73d71940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_bccdacf4b7f3b63d6b762b71236a574d1a310e23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4334a431033a0d1fe0178c028161f23e920eb60f">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2c888c2920ebf4ae70a38df451d2c8d0fb0003ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_25dcca5e20e3284db657c8cf684bd95f68728a46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_347bd023e739bd5362b4313dd9467ec2af45e7c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_f35d10811784151bd6336d7c79fdeee16b5fb09a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_6d2f240e4a48296d8b7419c49d2e7a2e4f5c6fbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_ac1661091dfdb4007cd4bc224de4933a6eededc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_e6f5d4798656266974c1cb06789df7380c8c8cfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Miguel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Miguel\NanoProjects\PopularMovies\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_697b2173d1787929d5786c13eb2ea2bac1043d1c\classes.dex" />
+    </item>
+
+</items>
